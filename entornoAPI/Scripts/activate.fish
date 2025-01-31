@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "C:\Users\XB148\OneDrive\Documentos\Octavo_cuatrimestre\Tecnologias_aplicaciones_web\Programas\Tecnologias-aplicaciones-web\entornoAPI"
+set -gx VIRTUAL_ENV "C:\Users\XB148\OneDrive\Documentos\Octavo_cuatrimestre\Tecnologias_aplicaciones_web\Programas\FASTAPI\entornoAPI"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/Scripts" $PATH
